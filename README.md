@@ -9,7 +9,7 @@
 <br>
 
 <p align="center">
-  <img src="avatar-circle.png" width="180">
+  <img src="avatar-circle.png" width="220">
 </p>
 
 <br>
