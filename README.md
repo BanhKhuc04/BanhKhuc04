@@ -4,9 +4,13 @@
 
 ### 💻 Frontend Developer • 🎓 AI Student @ FPT University
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1200&color=7EE787&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+Developer;Building+Useful+Projects;Always+Learning+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&color=7EE787&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+Developer;AI+Enthusiast;Building+Useful+Projects+🚀" />
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Nwc2J2NmNpdnBvNGp5bXk2NnN3d3Vtdm80a2FzMmlkMXN2Y2l5dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lJNoBCvQYp7nq/giphy.gif" width="220"/>
+<br>
+
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="220"/>
+
+<br>
 
 > **Code. Build. Improve. Repeat. 🐾**
 
@@ -17,28 +21,62 @@
 ## 🐱 About Me
 
 - 🎓 AI Student at **FPT University**
-- 💻 Passionate about **Frontend Development**
-- ⚛️ Building projects with **React**
+- 💻 Frontend Developer focused on **React**
+- 🚀 Passionate about building clean and useful web applications
 - 🎯 Goal: **React Intern → Fullstack Engineer**
-- 🐈 Cat lover & coffee enjoyer ☕
+- ☕ Coffee + 🐈 Cat + 💻 Coding = ❤️
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
-</p>
 
-### 🛠 Tools
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap"/>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 🤖 AI Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Perplexity-000000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Cursor-222222?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Windsurf-0EA5E9?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🛠 Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm"/>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
 
 <div align="center">
 
@@ -50,7 +88,7 @@
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <div align="center">
 
@@ -60,21 +98,21 @@
 
 ---
 
-## 📫 Contact
+# 🌐 Connect With Me
 
 <p align="center">
 
-📧 **Email**
+<a href="mailto:vanhkhuc2k5@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-**vanhkhuc2k5@gmail.com**
+<a href="https://facebook.com/vanhkhuc2005">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
 
-🌐 **Facebook**
-
-https://facebook.com/vanhkhuc2005
-
-💻 **GitHub**
-
-https://github.com/BanhKhuc04
+<a href="https://github.com/BanhKhuc04">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </p>
 
@@ -84,6 +122,6 @@ https://github.com/BanhKhuc04
 
 ![](https://komarev.com/ghpvc/?username=BanhKhuc04&color=7EE787)
 
-### 🐈 Thanks for visiting my profile!
+### ⭐ Thanks for visiting my profile!
 
 </div>
