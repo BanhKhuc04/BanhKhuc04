@@ -9,9 +9,7 @@
 <br>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/174506332?v=4"
-       width="180"
-       style="border-radius:50%;" />
+  <img src="assets/avatar-circle.png" width="180">
 </p>
 
 <br>
