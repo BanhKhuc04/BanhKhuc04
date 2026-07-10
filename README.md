@@ -1,126 +1,89 @@
 <div align="center">
 
-# 🤖 Hi, I'm Khúc Việt Anh
+# 👋 Hi, I'm Khúc Việt Anh
 
 ### 💻 Frontend Developer • 🎓 AI Student @ FPT University
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3FB950&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+Developer;Learning+Fullstack;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1200&color=7EE787&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+Developer;Building+Useful+Projects;Always+Learning+🚀" />
 
----
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Nwc2J2NmNpdnBvNGp5bXk2NnN3d3Vtdm80a2FzMmlkMXN2Y2l5dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lJNoBCvQYp7nq/giphy.gif" width="220"/>
 
-> 🚀 *Building useful projects, learning every day, and growing into a Fullstack Engineer.*
+> **Code. Build. Improve. Repeat. 🐾**
 
 </div>
 
-## 👨‍💻 About Me
+---
+
+## 🐱 About Me
 
 - 🎓 AI Student at **FPT University**
 - 💻 Passionate about **Frontend Development**
-- 🌱 Currently learning **React**
+- ⚛️ Building projects with **React**
 - 🎯 Goal: **React Intern → Fullstack Engineer**
-- 🤖 Love building practical web applications
+- 🐈 Cat lover & coffee enjoyer ☕
 
 ---
 
-## 🛠 Tech Stack
+## 💻 Tech Stack
 
-### Frontend
-
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
 </p>
 
-### Currently Learning
+### 🛠 Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=ts,nodejs,express,mysql,git,docker" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,github,postman" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=BanhKhuc04&show_icons=true&theme=github_dark&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BanhKhuc04&layout=compact&theme=github_dark&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
 ## 🔥 GitHub Streak
 
-<p align="center">
+<div align="center">
 
 <img src="https://streak-stats.demolab.com?user=BanhKhuc04&theme=github-dark-blue&hide_border=true"/>
 
-</p>
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| 🏠 SmartHome_VAK | Smart Home Dashboard |
-| 📇 Contact Manager | CRUD React Application |
-| 💰 Expense Tracker | Personal Finance Tracker |
-| 🌤 Weather App | Weather Forecast using API |
-| 🌐 Portfolio | Personal Portfolio Website |
-
----
-
-## 📚 Learning Roadmap
-
-```text
-✅ HTML
-
-✅ CSS
-
-✅ JavaScript
-
-✅ Bootstrap
-
-✅ React
-
-⬜ TypeScript
-
-⬜ Node.js
-
-⬜ Express
-
-⬜ SQL
-
-⬜ Docker
-
-⬜ REST API
-
-⬜ Next.js
-```
+</div>
 
 ---
 
 ## 📫 Contact
 
-📧 Email: **your-email@gmail.com**
+<p align="center">
 
-🌐 Facebook:
+📧 **Email**
+
+**vanhkhuc2k5@gmail.com**
+
+🌐 **Facebook**
+
 https://facebook.com/vanhkhuc2005
+
+💻 **GitHub**
+
+https://github.com/BanhKhuc04
+
+</p>
 
 ---
 
 <div align="center">
 
-### 🤖 Thanks for visiting!
+![](https://komarev.com/ghpvc/?username=BanhKhuc04&color=7EE787)
 
-<img src="https://komarev.com/ghpvc/?username=BanhKhuc04&color=3FB950"/>
+### 🐈 Thanks for visiting my profile!
 
 </div>
