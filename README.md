@@ -31,8 +31,6 @@ Role: Frontend Developer
 
 University: FPT University
 
-Major: Artificial Intelligence
-
 Goal: React Intern → Fullstack Engineer
 
 ```
