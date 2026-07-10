@@ -8,7 +8,11 @@
 
 <br>
 
-<img src="https://media.tenor.com/6p7Q3K3x6H0AAAAi/cat-computer.gif" width="180"/>
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/BanhKhuc04?v=4"
+       width="180"
+       style="border-radius:50%;" />
+</p>
 
 <br>
 
