@@ -1,30 +1,39 @@
 <div align="center">
 
-# 👋 Hi, I'm Khúc Việt Anh
+# 🐈‍⬛ Hi, I'm Khúc Việt Anh
 
 ### 💻 Frontend Developer • 🎓 AI Student @ FPT University
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&color=7EE787&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+Developer;AI+Enthusiast;Building+Useful+Projects+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3500&pause=1200&color=7EE787&center=true&vCenter=true&width=650&lines=Frontend+Developer;React+Developer;AI+Enthusiast;Building+Useful+Projects..." />
 
 <br>
 
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="220"/>
+<img src="https://media.tenor.com/6p7Q3K3x6H0AAAAi/cat-computer.gif" width="180"/>
 
 <br>
 
 > **Code. Build. Improve. Repeat. 🐾**
 
+![](https://komarev.com/ghpvc/?username=BanhKhuc04&color=7EE787&style=flat-square)
+
 </div>
 
 ---
 
-## 🐱 About Me
+# 🐱 About Me
 
-- 🎓 AI Student at **FPT University**
-- 💻 Frontend Developer focused on **React**
-- 🚀 Passionate about building clean and useful web applications
-- 🎯 Goal: **React Intern → Fullstack Engineer**
-- ☕ Coffee + 🐈 Cat + 💻 Coding = ❤️
+```yaml
+Name: Khúc Việt Anh
+
+Role: Frontend Developer
+
+University: FPT University
+
+Major: Artificial Intelligence
+
+Goal: React Intern → Fullstack Engineer
+
+```
 
 ---
 
@@ -42,23 +51,15 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=github"/>
-
-</p>
-
-<p align="center">
-
 <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub%20Copilot-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Perplexity-000000?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Cursor-222222?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Windsurf-0EA5E9?style=for-the-badge"/>
 
@@ -76,18 +77,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=BanhKhuc04&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BanhKhuc04&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
----
-
 # 🔥 GitHub Streak
 
 <div align="center">
@@ -98,7 +87,7 @@
 
 ---
 
-# 🌐 Connect With Me
+# 📫 Connect With Me
 
 <p align="center">
 
@@ -120,8 +109,8 @@
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=BanhKhuc04&color=7EE787)
+### 🐾 Thanks for visiting!
 
-### ⭐ Thanks for visiting my profile!
+*"The best way to learn is by building."*
 
 </div>
