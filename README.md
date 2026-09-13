@@ -4,7 +4,7 @@
 
 ### 💻 Full-stack Developer • 🎓 AI Student @ FPT University
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3500&pause=1200&color=7EE787&center=true&vCenter=true&width=650&lines=Frontend+Developer;React+Developer;AI+Enthusiast;Building+Useful+Projects..." />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3500&pause=1200&color=7EE787&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;React+Developer;AI+Enthusiast;Building+Useful+Projects..." />
 
 <br>
 
